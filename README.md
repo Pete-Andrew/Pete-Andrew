@@ -1,11 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Pete Andrew</h1>
+<h1 align="center">✨Hi, I'm Pete Andrew✨</h1>
 <h3 align="center">I'm a front-end web developer</h3>
 
 
 ![Snake animation](https://raw.githubusercontent.com/Pete-Andrew/Pete-Andrew/d6ec99b841cf19bebff153786a019ef6fb897d0d/github-contribution-grid-snake.svg)
 
 <!--
+
+https://blog.arnabghosh.me/add-github-dark-snake-animation-readme#heading-2-go-to-action
 **Pete-Andrew/Pete-Andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
