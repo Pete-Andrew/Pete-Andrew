@@ -1,6 +1,8 @@
 
 <h1 align="center">✨Hi, I'm Pete Andrew✨</h1>
-<h3 align="center">I'm a front-end web developer</h3>
+<h3 align="center">I'm a front-end web developer, digital artist and games designer</h3>
+
+<h3 align="center">Key Skills:</h3>
 
 <h3 align="center"> 
 
@@ -54,6 +56,10 @@
 ![Snake animation](https://raw.githubusercontent.com/Pete-Andrew/Pete-Andrew/d6ec99b841cf19bebff153786a019ef6fb897d0d/github-contribution-grid-snake.svg)
 
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p>
 
 <!--
 
