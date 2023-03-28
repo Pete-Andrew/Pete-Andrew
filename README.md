@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![Snake animation](https://github.com/Peter-Andrew/Peter-Andrew/blob/output/github-contribution-grid-snake.svg
 
 ![Snake animation](https://raw.githubusercontent.com/Pete-Andrew/Pete-Andrew/d6ec99b841cf19bebff153786a019ef6fb897d0d/github-contribution-grid-snake.svg)
 
