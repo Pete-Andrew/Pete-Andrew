@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Aleksandra</h1>
+<h1 align="center">Hi 👋, I'm Pete Andrew</h1>
 <h3 align="center">I'm a front-end web developer</h3>
 
 
