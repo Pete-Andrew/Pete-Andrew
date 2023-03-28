@@ -42,7 +42,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" 
   width="40" height="40"/> </a>
   <a href="https://www.adobe.com/uk/products/substance3d-painter.html" target="_blank" rel="noreferrer">
-  <img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" alt="Adobe Substance Painter"
+  <img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" alt="Adobe Substance Painter" 
+  width="40" height="40"/> </a>
 
 
 
