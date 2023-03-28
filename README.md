@@ -49,10 +49,20 @@
 </p>
 
 
+
 <!-- - 🔭 I’m currently working on -->
 🌱 I’m currently teaching myself C++ for use in Unreal Engine. <br>
 👯 I’m looking to collaborate on any project with Javascript, digital sculpting or games creation with Unreal Engine! <br>
 📫 How to reach me: peter.a.andrew@gmail.com <br>
+
+
+   <a href="https://www.linkedin.com/in/peter-a-2143b33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-a-2143b33a" 
+   height="40" width="40" /></a> <br>
+   
+   <a href="https://www.artstation.com/peterandrew" target="blank"><img align="center" src="logos/artstation_logo.svg" alt="peterandrew artstion" 
+   height="40" width="40" /></a>
+   
+
 
 <!-- white space was causing display error!!  -->
 
