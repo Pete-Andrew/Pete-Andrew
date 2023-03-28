@@ -2,6 +2,8 @@
 <h1 align="center">✨Hi, I'm Pete Andrew✨</h1>
 <h3 align="center">I'm a front-end web developer</h3>
 
+<h3 align="center"> 
+
 <p align="center"> 
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -39,7 +41,11 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" 
   width="40" height="40"/> </a>
-  
+  <a href="https://www.adobe.com/uk/products/substance3d-painter.html" target="_blank" rel="noreferrer">
+  <img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" alt="Adobe Substance Painter"
+
+
+
 </p>
 
 <!-- white space was causing display error!!  -->
