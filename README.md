@@ -70,9 +70,9 @@ Social Media: <br>
 
 <!-- [![Pete-Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pete-Andrew)](https://github.com/Pete-Andrew/github-readme-stats) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p>
+<p><img align="left" src="https://github-readme-stats-eadh.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p>
+<p><img align="center" src="https://github-readme-stats-eadh.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pete-Andrew&label=Profile%20views&color=0e75b6&style=flat" alt="Pete-Andrew" /> </p>
 
@@ -80,7 +80,7 @@ Social Media: <br>
 <!--
 https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
 https://blog.arnabghosh.me/add-github-dark-snake-animation-readme#heading-2-go-to-action
-https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s
+https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s   -- how to resolve the API limit with the stats. Need to use Classic personal access tokens from github.
 **Pete-Andrew/Pete-Andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -94,3 +94,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...
 -->
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p> -->
