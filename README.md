@@ -49,7 +49,7 @@
   width="40" height="40"/> </a>
 </p>
 
-
+<!-- white space was causing display error!!  -->
 
 <!-- - 🔭 I’m currently working on -->
 🌱 I’m currently teaching myself C++ for use in Unreal Engine. <br>
@@ -66,19 +66,19 @@ Social Media: <br>
 
 </p>
 
-
-<!-- white space was causing display error!!  -->
-
 ![Snake animation](https://raw.githubusercontent.com/Pete-Andrew/Pete-Andrew/d6ec99b841cf19bebff153786a019ef6fb897d0d/github-contribution-grid-snake.svg)
+
+<!-- [![Pete-Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pete-Andrew)](https://github.com/Pete-Andrew/github-readme-stats) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pete-Andrew&label=Profile%20views&color=0e75b6&style=flat" alt="Pete-Andrew" /> </p>
 
-<!--
 
+<!--
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
 https://blog.arnabghosh.me/add-github-dark-snake-animation-readme#heading-2-go-to-action
 **Pete-Andrew/Pete-Andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
