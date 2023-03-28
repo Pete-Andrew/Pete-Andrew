@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Snake animation](https://github.com/Peter-Andrew/Peter-Andrew/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Pete-Andrew/Pete-Andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
