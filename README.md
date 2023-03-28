@@ -10,17 +10,16 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" 
   width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" alt="blender"
   width="40" height="40"/> </a>
-  <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer">
+    <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/> </a>
   <a href="https://pixologic.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" alt="Zbrush" 
-  width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
-  width="40" height="40"/> </a> 
+  width="40" height="40"/> </a>
 
 </p>
 
@@ -39,8 +38,8 @@
   width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" 
-  width="40" height="40"/> </a> 
-
+  width="40" height="40"/> </a>
+  
 </p>
 
 <!-- white space was causing display error!!  -->
