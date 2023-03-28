@@ -50,9 +50,9 @@
 
 
 <!-- - 🔭 I’m currently working on -->
-- 🌱 I’m currently teaching myself C++ for use in Unreal Engine.
-- 👯 I’m looking to collaborate on any project with Javascript, digital sculpting or games creation with Unreal Engine!
-- 📫 How to reach me: peter.a.andrew@gmail.com 
+🌱 I’m currently teaching myself C++ for use in Unreal Engine. <br>
+👯 I’m looking to collaborate on any project with Javascript, digital sculpting or games creation with Unreal Engine! <br>
+📫 How to reach me: peter.a.andrew@gmail.com <br>
 
 <!-- white space was causing display error!!  -->
 
