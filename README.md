@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://raw.githubusercontent.com/grassfinn/grassfinn/output/github-contribution-grid-snake.svg
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.2.1
 
 
 <!--
