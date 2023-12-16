@@ -21,7 +21,7 @@
   width="40" height="40"/> </a>&nbsp;
     <a href="https://www.unrealengine.com/en-US/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"/> </a>&nbsp;
-  <a href="[https://pixologic.com/](https://www.maxon.net/en/zbrush)" target="_blank" rel="noreferrer">
+  <a href="https://www.maxon.net/en/zbrush/" target="_blank" rel="noreferrer">
   <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" alt="Zbrush" 
   width="40" height="40"/> </a>&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
