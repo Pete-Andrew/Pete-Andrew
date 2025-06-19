@@ -77,6 +77,7 @@ Social Media: <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pete-Andrew&label=Profile%20views&color=0e75b6&style=flat" alt="Pete-Andrew" /> </p>
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
