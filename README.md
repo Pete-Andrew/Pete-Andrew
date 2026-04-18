@@ -7,14 +7,24 @@
 
 <h3 align="center">Key Skills:</h3>
 
-| CSS3 | Git | Blender | Unreal | ZBrush | HTML5 |
-|---|---|---|---|---|---|
-| <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a> | <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a> | <a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"></a> | <a href="https://www.unrealengine.com/en-US/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40"></a> | <a href="https://www.maxon.net/en/zbrush/"><img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" alt="ZBrush" width="40" height="40"></a> | <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a> |
-
-| Illustrator | React | Bootstrap | JavaScript | Photoshop | Substance Painter |
-|---|---|---|---|---|---|
-| <a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"></a> | <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a> | <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a> | <a href="https://www.photoshop.com/en"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" alt="Photoshop" width="40" height="40"></a> | <a href="https://www.adobe.com/uk/products/substance3d-painter.html"><img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" alt="Substance Painter" width="40" height="40"></a> |
-
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"></a></td>
+    <td align="center"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"></a></td>
+    <td align="center"><a href="https://www.blender.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"></a></td>
+    <td align="center"><a href="https://www.unrealengine.com/en-US/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine" alt="Unreal Engine" width="40" height="40"></a></td>
+    <td align="center"><a href="https://www.maxon.net/en/zbrush/"><img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" title="ZBrush" alt="ZBrush" width="40" height="40"></a></td>
+    <td align="center"><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.adobe.com/in/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" title="Illustrator" alt="Illustrator" width="40" height="40"></a></td>
+    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"></a></td>
+    <td align="center"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"></a></td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"></a></td>
+    <td align="center"><a href="https://www.photoshop.com/en"><img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg" title="Photoshop" alt="Photoshop" width="40" height="40"></a></td>
+    <td align="center"><a href="https://www.adobe.com/uk/products/substance3d-painter.html"><img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" title="Substance Painter" alt="Substance Painter" width="40" height="40"></a></td>
+  </tr>
+</table>
 <!-- white space was causing display error!!  -->
 
 <!-- - 🔭 I’m currently working on -->
