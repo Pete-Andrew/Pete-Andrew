@@ -71,8 +71,11 @@ Social Media: <br>
 
 </p>
 
+<div align="center">
+
 ![Snake animation](https://raw.githubusercontent.com/Pete-Andrew/Pete-Andrew/d6ec99b841cf19bebff153786a019ef6fb897d0d/github-contribution-grid-snake.svg)
 
+</div>
 <!-- <p><img align="left" src="https://github-readme-stats-eadh.vercel.app/api/top-langs?username=Pete-Andrew&show_icons=true&locale=en&layout=compact" alt="Pete-Andrew most used languages" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-stats-eadh.vercel.app/api?username=Pete-Andrew&show_icons=true&locale=en" alt="Pete-Andrew github stats" /></p> -->
