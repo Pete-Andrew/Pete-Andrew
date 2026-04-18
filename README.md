@@ -7,7 +7,7 @@
 
 <h3 align="center">Key Skills:</h3>
 
-<p align="center"> 
+<div align="center"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" 
   width="40" height="40"/> </a>&nbsp;
@@ -25,9 +25,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
   width="40" height="40"/> </a>
-</p>
+</div>
 
-<p align="center"> 
+<div align="center"> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" 
   width="40" height="40"/> </a>&nbsp;
@@ -45,7 +45,7 @@
   <a href="https://www.adobe.com/uk/products/substance3d-painter.html" target="_blank" rel="noreferrer">
   <img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" alt="Adobe Substance Painter" 
   width="40" height="40"/> </a>
-</p>
+</div>
 
 <!-- white space was causing display error!!  -->
 
