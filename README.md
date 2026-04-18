@@ -50,6 +50,8 @@
 <!-- white space was causing display error!!  -->
 
 <!-- - 🔭 I’m currently working on -->
+
+<div align="center">
 🌱 I’m currently teaching myself C++ for use in Unreal Engine. <br>
 👯 I’m looking to collaborate on any project with Javascript, digital sculpting or games creation with Unreal Engine! <br>
 
@@ -58,6 +60,8 @@
 📫 How to reach me: peter.a.andrew@gmail.com <br>
 
 Social Media: <br>
+
+</div>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/peter-a-2143b33a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-a-2143b33a" 
