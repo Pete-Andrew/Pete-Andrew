@@ -3,7 +3,7 @@
 ✨Welcome to my GitHub✨
 </h1>
 
-<h3 align="center">I'm a front-end web developer, digital artist and games designer.</h3>
+<h3 align="center">I'm a software developer, digital artist and games designer.</h3>
 
 <h3 align="center">Key Skills:</h3>
 
@@ -30,8 +30,7 @@
 <!-- - 🔭 I’m currently working on -->
 
 <div align="center">
-🌱 I’m currently teaching myself C++ for use in Unreal Engine. <br>
-👯 I’m looking to collaborate on any project with Javascript, digital sculpting or games creation with Unreal Engine! <br>
+🌱 I’m currently trying to build myself and AI augmented solo software and game development studio<br>
 
 <a href="https://peteandrewportfolio.vercel.app/" target="_blank" rel="noreferrer"> 🌱Portfolio Website🌱 </a>
 
